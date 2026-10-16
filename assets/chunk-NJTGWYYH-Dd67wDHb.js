@@ -1,0 +1,1 @@
+import{Q as e,X as t,tt as n}from"./dist-C6AI2tFB.js";import{F as r,P as i,bt as a}from"./chunk-K2LNXU54-B09BuzW6.js";var o=n(e(),1);t();var s={ul:i,ol:r},c=e=>{let t={ul:a(`field-richtext-listselect-bullet`),ol:a(`field-richtext-listselect-ordered`)},n=[];return e?.listItem!==!1&&(n=[`ul`,`ol`]),(0,o.useMemo)(()=>n.map(e=>({value:e,label:t[e],icon:s[e]})),[n,t])};export{c as t};
